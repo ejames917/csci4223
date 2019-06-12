@@ -1,0 +1,27 @@
+Evan James ---- CSCI 4229
+HW3 - Lighting and textures
+
+Functions adapted from ex16, ex22
+
+Key bindings:
+m          Toggle between persepctive and first person
+z          Change displays
+x          Toggle axes
++/-        Changes field of view for perspective
+a/A        Decrease/increase ambient light
+d/D        Decrease/increase diffuse light
+s/S        Decrease/increase specular light
+e/E        Decrease/increase emitted light
+n/N        Decrease/increase shininess
+arrows     Change view angle in Orthographic and Perspecive mode
+WASD       Move around in FPS mode
+PgDn/PgUp  Zoom in and out in perspective, move eye position up and down in FPS mode
+Scroll     Change size of world in FPS
+0          Reset view angle
+ESC        Exit
+
+This homework took me about 8 hours.
+
+I know that this does not look like a large improvement from my last homework, and I completely agree. I spent the previous 5 days in Philadelphia for my cousin's wedding, so I wasn't able to work on this homework as much as I would have liked to. I plan on continuing to improve what I have so far in the coming days to make up for this setback. I am working on improving the lighting to be more realistic, along with having more objects which will fill up the space of the room. All of this will be done by the time the progress checks are due this coming Friday. 
+
+I don't want it to come across that I am making excuses, and I fully accept any point penalty which may come from a dissatisfying amount of work. I thought some context to my situation would explain everything a little bit more. I am submitting this homework as it is because I would rather have my work be under-developed and on time, as opposed to polished but late.

@@ -1,0 +1,23 @@
+Evan James - CSCI 4229
+HW1 - Lorenz Attractor
+
+Axes drawing, reshape function, key handling modified from ex6 in class
+Makefile modified from in class examples
+Lorenz value calculation taken from lorenz.c
+
+Key bindings:
+s ---------- Decrement Lorenz s value by .25
+S ---------- Increment Lorenz s value by .25
+b ---------- Decrement Lorenz b value by .05
+B ---------- Increment Lorenz b value by .05
+r ---------- Decrement Lorenz r value by .5
+R ---------- Increment Lorenz r value by .5
+1 ---------- Reset Lorenz parameters to default values
+2 ---------- Reset view angle to x,y
+3 ---------- Reset view angle to x,z
+4 ---------- Reset view angle to y,z
+t ---------- Toggle tracer on/off
+Arrow keys - Change view angle
+ESC -------- Exit
+
+This homework took roughly 4 - 5 hours to complete.

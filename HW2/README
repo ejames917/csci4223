@@ -1,0 +1,24 @@
+Evan James ---- CSCI 4229
+HW2 - Drawing in 3D
+
+Functions adapted from ex9
+
+
+Key bindings:
+m          Toggle between persepctive and orthogonal
+d          Change displays
+x          Toggle axes
+f          Toggle FPS on/ (Takes prescident over orthogonal/perspective)
++/-        Changes field of view for perspective
+arrows     Change view angle in Orthographic and Perspecive mode
+WASD       Move around in FPS mode
+PgDn/PgUp  Zoom in and out
+0          Reset view angle
+ESC        Exit
+
+This took me about 7 hours to complete.
+
+There is a setting when cycling through the display features which randomly generates cylinders.
+I was not able to figure out how to get this to work properly, because it regenerates the random
+cylinders every time a key is pressed. I am planning on using this type of random generation in my 
+final project, to help make a game.
